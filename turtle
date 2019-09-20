@@ -1,0 +1,14 @@
+import turtle
+carlito=turtle.Turtle()
+carlito.shape('turtle')
+carlito.speed(5)
+
+carlito.penup()
+carlito.goto(-50,199)
+carlito.pendown()
+carlito.goto(-150,199)
+carlito.goto(-150,120)
+carlito.goto(-90,120)
+carlito.goto(-150,120)
+carlito.goto(-150,50)
+carlito.goto(-50,50)
